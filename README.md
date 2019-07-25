@@ -236,17 +236,47 @@ On line 207 change `cool-react-bucket:` to `coolReactBucket`
 
 On line 208 change `"redirect-to-http"` to `"redirect-to-https"`
 
+## Screen shots
 
+### Template1.yml 
+![Screenshot](./assets/y1a.png)
 
+![Screenshot](./assets/y1b.png)
+***
 
+### Template2.yml
+![Screenshot](./assets/y2a.png)
 
+![Screenshot](./assets/y2b.png)
+***
 
+### Template3.yml 
+![Screenshot](./assets/y3a.png)
 
+![Screenshot](./assets/y3b.png)
+***
 
+### Template4.yml 
+![Screenshot](./assets/y4a.png)
 
+![Screenshot](./assets/y4b.png)
 
+![Screenshot](./assets/y4error.png)
 
+![Screenshot](./assets/y4error2.png)
+***
 
+### Template5.yml 
+![Screenshot](./assets/y5a.png)
 
+![Screenshot](./assets/y5b.png)
 
+![Screenshot](./assets/y5error.png)
+***
 
+### Template6.yml 
+![Screenshot](./assets/y6a.png)
+
+![Screenshot](./assets/y6b.png)
+
+![Screenshot](./assets/y6error.png)
